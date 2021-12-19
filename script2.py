@@ -32,7 +32,7 @@ while True:                   #Running a loop to read all the frames with flags 
     """ 
     Here, waitkey is a function that allows user to display a window for a given set of time
     """
-
+    
 # Release the VideoCapture object  
 vid.release()  
 
