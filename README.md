@@ -47,5 +47,7 @@ Make a Python file and execute the following code:
 ![Burgler](https://github.com/officialAmanchauhan/FaceIT/blob/main/burglarexample.jpg)
 
 That's just one simple example, we can use OpenCV in many different ways
+
 Have a Great Day
-Made from ❤ by [Aman Chauhan](https://github.com/officialAmanchauhan)
+
+Made with ❤ from [Aman Chauhan](https://github.com/officialAmanchauhan)
