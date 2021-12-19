@@ -2,9 +2,9 @@
 Face Detection Programme using OpenCV
 
 
-## Authors
+## Author
 
-- [@Aman Chauhan](https://github.com/officialAmanchauhan)
+- [Aman Chauhan](https://github.com/officialAmanchauhan)
     
 ## OpenCV
 OpenCV is an Open Source Computer Vision Library used for machine learning for performing real-time operations
